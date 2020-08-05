@@ -1,0 +1,10 @@
+{
+  "listpatchrepositori": [
+    {
+      "namepatch": "BlackGokuBase",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/BLACK%20GOKU%20BASE%20NEW",
+      "urlicono": "https://icon-library.net/images/64-x-64-icon/64-x-64-icon-9.jpg",
+      "description":"Este es un parche de prueba"
+    }
+  ]
+}
