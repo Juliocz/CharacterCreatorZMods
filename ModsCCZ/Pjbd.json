@@ -3,14 +3,38 @@
     {
       "namepatch": "BlackGokuBase",
       "urlpatch": "https://raw.githubusercontent.com/Juliocz/CharacterCreatorZMods/master/ModsCCZ/BLACK%20GOKU%20BASE%20NEW",
-      "urlicono": "https://icon-library.net/images/64-x-64-icon/64-x-64-icon-9.jpg",
+      "urlicono": "https://i.ibb.co/CKJ7WGG/8g.png",
       "description": "Este es un parche de prueba"
     },
      {
       "namepatch": "VegitoXenoSSJ4",
       "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/VEGETO%20XENO%20SSJ4%20BY%20THEJULIODROIDS.patch",
-      "urlicono": "https://icon-library.net/images/64-x-64-icon/64-x-64-icon-9.jpg",
+      "urlicono": "https://i.ibb.co/Z1v25Gb/7g.png",
       "description": "Este es un parche de prueba Vegito"
+    },
+     {
+      "namepatch": "Goku Base(PoloFrio)",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/VEGETO%20XENO%20SSJ4%20BY%20THEJULIODROIDS.patch",
+      "urlicono": "https://i.ibb.co/x6rF3gb/6g.png",
+      "description": "Este es Goku mod que aparecio en la pelicula de broly, su traje me gusto y decidi compartirselo\nNota:Instalenlo en X personaje, es transformable a x personaje."
+    },
+     {
+      "namepatch": "Gast Namek",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/VEGETO%20XENO%20SSJ4%20BY%20THEJULIODROIDS.patch",
+      "urlicono": "https://i.ibb.co/WGKfZ5k/4g.png",
+      "description": "Hola, soy el Namekusei mas fuerte de todos, tengo el poder de todos mis camaradas y no los defraudare, asi que preparate para poder controlar mi asombroso poder."
+    },
+     {
+      "namepatch": "Goku Xeno(DBH)",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/VEGETO%20XENO%20SSJ4%20BY%20THEJULIODROIDS.patch",
+      "urlicono": "https://i.ibb.co/MPPcfDn/3g.png",
+      "description": "Hola, soy Goku, un gusto poder estar en esta galeria, vaya hay sujetos muy fuertes, espero que puedas probar alguno de nuestros poderes y llevarnos a batallas buenas.\nEstoy emocionado por empezar"
+    },
+     {
+      "namepatch": "Goku Xeno(DBH)",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/VEGETO%20XENO%20SSJ4%20BY%20THEJULIODROIDS.patch",
+      "urlicono": "https://i.ibb.co/MPPcfDn/3g.png",
+      "description": "Hola, soy Goku, un gusto poder estar en esta galeria, vaya hay sujetos muy fuertes, espero que puedas probar alguno de nuestros poderes y llevarnos a batallas buenas.\nEstoy emocionado por empezar"
     }
   ]
 }
