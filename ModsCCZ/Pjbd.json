@@ -1,5 +1,6 @@
-{"backgroundcolor": "#FFFFFF00",
+{"backgroundcolor": "#FF454545",
  "Bannerurl":"https://i.ibb.co/CzC9cNn/8gbanner.png",
+ "listbackgroundcolor"="#80000000";
   "listpatchrepositori": [
     {
       "namepatch": "BlackGokuBase",
