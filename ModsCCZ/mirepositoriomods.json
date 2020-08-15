@@ -108,6 +108,24 @@
       "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Caulifla%20Super%20Sayajin%202.unk",
       "urlicono": "https://i.ibb.co/KqSXkyd/Sin-t-tul19o.png",
       "description": "CauliflaSSJ2 by GohanZMods"
+    },
+     {
+      "namepatch": "GohanBaseShin",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Parche%20Gohan%20Kaioshin%20Completo%20Terminado",
+      "urlicono": "https://i.ibb.co/WHXwSjv/Sin-t-tulo22.png",
+      "description": ""
+    },
+     {
+      "namepatch": "GohanSSJShin",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Parche%20Gohan%20Kaioshin%20SSJ%20Completo%20Terminado",
+      "urlicono": "https://i.ibb.co/1ZghM7X/Sin-t-tulo23.png",
+      "description": ""
+    },
+     {
+      "namepatch": "GohanDefinitivoShin",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Parche%20Gohan%20Definitivo%20Kaioshin%20Completo%20Terminado",
+      "urlicono": "https://i.ibb.co/xH2Spqv/Sin-t-tulo21.png",
+      "description": ""
     }
     ]
 
