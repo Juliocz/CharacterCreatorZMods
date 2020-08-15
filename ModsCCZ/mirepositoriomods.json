@@ -90,6 +90,24 @@
       "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Parche%20Gogeta%20SsjB%20Xenoverse%20de%20Hunter.unk",
       "urlicono": "https://i.ibb.co/jkCh0gx/Sin-t-tul16o.png",
       "description": "Gogeta SSJblue by GohanZMods"
+    },
+     {
+      "namepatch": "CauliflaBase",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Caulifla%20Base.unk",
+      "urlicono": "https://i.ibb.co/7CxPXnT/Sin-t-tulo17.png",
+      "description": "CauliflaBase by GohanZMods"
+    },
+     {
+      "namepatch": "CauliflaSSJ",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Caulifla%20Super%20Sayajin%201.unk",
+      "urlicono": "https://i.ibb.co/Pj38fhJ/Sin-t-tulo20.png",
+      "description": "CauliflaSSJ by GohanZMods"
+    },
+     {
+      "namepatch": "CauliflaSSJ2",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Caulifla%20Super%20Sayajin%202.unk",
+      "urlicono": "https://i.ibb.co/KqSXkyd/Sin-t-tul19o.png",
+      "description": "CauliflaSSJ2 by GohanZMods"
     }
     ]
 
