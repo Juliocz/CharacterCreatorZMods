@@ -1,0 +1,90 @@
+
+{
+    "title":"Mods",
+    "titlecolor":"#e98100",
+    "Bannerurl":"https://i.ibb.co/M1T3qtm/banner.png",
+    "backgroundcolor":"#000000",
+    "listbackgroundcolor":"#80f0a040",
+    
+    "listpatchrepositori": [
+    {
+      "namepatch": "Hatchiyak",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Hatchiyack%20Final%20Color%201.PCK1",
+      "urlicono": "https://i.ibb.co/K7pmCDH/Sin-t-tu8lo.png",
+      "description": "El poderoso Hatchiyak port Bt3"
+    },
+     {
+      "namepatch": "VegetaSSJ3",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/vegetassj3",
+      "urlicono": "https://i.ibb.co/7yp0K62/Sin-t-tu10o.png",
+      "description": "VegetaSSJ3 con su nuevo Ataque port del Bt3"
+    },
+     {
+      "namepatch": "Maestro roshi FullPower",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/maestroroshifullpower",
+      "urlicono": "https://i.ibb.co/s2PSVkr/Sin-t-tul9o.png",
+      "description": "El Maestro roshi con su kamehameha original"
+    },
+     {
+      "namepatch": "TrunksSSJGOD DBH",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Trunks%20Xeno%20Ssj%20God.PARSHE",
+      "urlicono": "https://i.ibb.co/09KwRNQ/Sin-t-tulo.png",
+      "description": "Mod by LinkDark"
+    },
+     {
+      "namepatch": "Veku",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Veku%20Base.PARSHE",
+      "urlicono": "https://i.ibb.co/Wzp9xq0/Sin-t-tu7lo.png",
+      "description": "Mod by LinkDark"
+    },
+     {
+      "namepatch": "Black Goku Mastered",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Black%20Goku%20UI.PARSHE",
+      "urlicono": "https://i.ibb.co/zVY1TWk/Sin-t-tul2o.png",
+      "description": "Mod by LinkDark"
+    },
+     {
+      "namepatch": "Gohan Base (School)",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Gohan%20ESCUELA.PARSHE",
+      "urlicono": "https://i.ibb.co/1GZg8Xc/Sin-t-tul5o.png",
+      "description": "Mod by LinkDark"
+    },
+     {
+      "namepatch": "Gohan SSJ (School)",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Gohan%20ESCUELA%20ssj.PARSHE",
+      "urlicono": "https://i.ibb.co/JBkMwCR/Sin-t-tul6o.png",
+      "description": "Mod by LinkDark"
+    },
+     {
+      "namepatch": "Paikuhan",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Paikuhan",
+      "urlicono": "https://i.ibb.co/YXnpsFq/Sin-t-10tulo.png",
+      "description": "Port de Paikuhan"
+    },
+     {
+      "namepatch": "HilderganBase",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/base",
+      "urlicono": "https://i.ibb.co/mBNmBz4/Sin-t-tulo11.png",
+      "description": ""
+    },
+     {
+      "namepatch": "Hildergan",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/parche%20hildegan",
+      "urlicono": "https://i.ibb.co/Jj5nNrw/Sin-t-tulo12.png",
+      "description": ""
+    },
+     {
+      "namepatch": "Cell X",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Parche%20Cell%20X%20Starfyx.txt",
+      "urlicono": "https://i.ibb.co/TPRBQdy/Sin-t-tulo14.png",
+      "description": "Parche de CellX by Starfix"
+    },
+     {
+      "namepatch": "Bills XV2",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/BillsXV2hakaishinFinalByDaniCTercero",
+      "urlicono": "https://i.ibb.co/SDjYh2d/Sin-t-tulo15.png",
+      "description": "Bills hecho por Minami Modder\nParche by DaniTercero"
+    }
+    ]
+
+}
