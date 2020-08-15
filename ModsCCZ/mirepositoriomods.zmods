@@ -1,0 +1,30 @@
+
+{
+    "title":"ModderX",
+    "titlecolor":"#e98100",
+    "Bannerurl":"https://i.ibb.co/M1T3qtm/banner.png",
+    "backgroundcolor":"#000000",
+    "listbackgroundcolor":"#80f0a040",
+    
+    "listpatchrepositori": [
+    {
+      "namepatch": "Zeno-Sama",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Zenosama.patch",
+      "urlicono": "https://i.ibb.co/jJrpxw8/zeno.png",
+      "description": "Este es el parche del Grandioso Zeno-sama, esta muy poderoso, pueden instalarlo en Xpj o yo que se xD"
+    },
+     {
+      "namepatch": "Zeno-Sama2",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Zenosama.patch",
+      "urlicono": "https://i.ibb.co/jJrpxw8/zeno.png",
+      "description": "Este es el parche del Grandioso Zeno-sama, esta muy poderoso, pueden instalarlo en Xpj o yo que se xD"
+    },
+     {
+      "namepatch": "Zeno-Sama3",
+      "urlpatch": "https://github.com/Juliocz/CharacterCreatorZMods/raw/master/ModsCCZ/Zenosama.patch",
+      "urlicono": "https://i.ibb.co/jJrpxw8/zeno.png",
+      "description": "Este es el parche del Grandioso Zeno-sama, esta muy poderoso, pueden instalarlo en Xpj o yo que se xD"
+    }
+    ]
+
+}
